@@ -15,7 +15,7 @@ Tagify is an AI-powered hashtag generator designed to help content creators and 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CSKIronMan17/Tagify.git
+   git clone https://github.com/CSKIronMan17/tagify.git
    ```
 2. Navigate to the project directory:
    ```bash
