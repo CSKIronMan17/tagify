@@ -1,6 +1,6 @@
 # Tagify: Social Media Hashtag Generator
 
-Assignment for Everyday Series internship
+A MicroSaaS idea implemented using Python
 
 ## Project Description
 Tagify is an AI-powered hashtag generator designed to help content creators and social media users find the best hashtags for their posts. It uses NLP to analyze content and provide optimized hashtags tailored to specific platforms, helping users boost their visibility and engagement.
