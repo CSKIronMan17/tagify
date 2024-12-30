@@ -23,7 +23,7 @@ Tagify is an AI-powered hashtag generator designed to help content creators and 
    ```
 3. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install flask nltk random
    ```
 4. Run the application:
    ```bash
