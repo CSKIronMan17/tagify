@@ -19,7 +19,7 @@ Tagify is an AI-powered hashtag generator designed to help content creators and 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Tagify
+   cd tagify
    ```
 3. Install dependencies:
    ```bash
